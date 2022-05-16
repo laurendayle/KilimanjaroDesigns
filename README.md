@@ -4,6 +4,7 @@
 1. [Description](#description)
 2. [Technologies](#technologies)
 3. [Usage](#usage)
+4. [Collaborators](#collaborators)
 
 ## Description
 A modern, client-facing, retail web-portal designed to improve the user experience and increase revenue. The page consists of 4 main components, including the **Product Overview** section, **Related Items** section,  **Questions and Answers** section, and **Ratings and Reviews**.
@@ -29,6 +30,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+## Collaborators
 
 | Component           | Collaborator                                                  |
 |---------------------|---------------------------------------------------------------|
